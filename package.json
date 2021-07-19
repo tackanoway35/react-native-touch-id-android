@@ -1,0 +1,31 @@
+{
+  "name": "react-native-touch-id-android",
+  "version": "0.1.0",
+  "description": "touchID for React Native (Android)",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "touchID",
+    "touch",
+    "android",
+    "react-native",
+    "fingerprint",
+    "finger"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "readme": "README.md",
+  "maintainers": [
+    {
+      "name": "Vasiliev90",
+      "email": "mikhail.vasiliev@eleken.co"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElekenAgency/react-native-touch-id-android.git"
+  }
+}
